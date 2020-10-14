@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kirby Garcia	kirbyg@ems.group.ph	@kirbyg
 
 # THANKS
 

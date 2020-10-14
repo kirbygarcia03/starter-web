@@ -16,6 +16,8 @@ Deployment text
 
 ## How To Contribute
 
+Please fork this repository
+
 ### Copyright
 
 2020 Git.Training.

@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple webproject. Adding a line for rebase, more changes from myfeature.
+This is a simple webproject. Emergency fix
 
 ## Introduction
 
